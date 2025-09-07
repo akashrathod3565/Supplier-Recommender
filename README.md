@@ -1,12 +1,12 @@
 # Supplier Recommender POC
 
-## 🚀 Project Description
+##  Project Description
 This is a Proof-of-Concept application that recommends the top 3 eligible suppliers for a given item and quantity using Machine Learning (XGBoost) and a simple Tkinter GUI.  
 It simulates supplier and historical RFQ data to train the model and recommends based on normalized features like Price, Reliability, Quality, and Compliance.
 
 ---
 
-## ⚡ Features
+##  Features
 - Supplier simulation (50 suppliers).
 - Historical RFQ data generation (5000 samples).
 - Machine learning model (XGBoost) to predict supplier suitability.
@@ -15,7 +15,7 @@ It simulates supplier and historical RFQ data to train the model and recommends 
 
 ---
 
-## ✅ Installation
+##  Installation
 
 1. Clone the repository:
    ```bash
@@ -29,7 +29,7 @@ It simulates supplier and historical RFQ data to train the model and recommends 
 
 ---
 
-## ▶️ Usage
+##  Usage
 
 1. Run the Python script:
    ```bash
@@ -45,12 +45,10 @@ It simulates supplier and historical RFQ data to train the model and recommends 
 
 ---
 
-## 🛠️ Future Improvements
+## 🛠 Future Improvements
 - Integrate with a real database.
 - Add advanced filtering options.
 - Improve the GUI with additional supplier details.
 
 ---
 
-## 📄 License
-MIT License
